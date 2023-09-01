@@ -4,7 +4,7 @@
 
 `Desenvolvimento de aplicação web front-end`
 
-`2º semestre/2023`
+`1º semestre/2022`
 
 O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
