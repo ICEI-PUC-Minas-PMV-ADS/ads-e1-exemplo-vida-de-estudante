@@ -1,0 +1,67 @@
+@media (max-width: 999px) {
+    .cadastrar{
+        width:90%;
+      }
+
+     } 
+
+@media(min-width: 1000px){
+     .cadastrar{
+         width: 700px;
+        }
+      }
+      
+    .cadastrar {
+        font-size: 16px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: #3E497A;
+        display:flexbox;
+        text-align:left;
+        line-height: 2;
+        box-sizing: border-box;
+        border: 2px solid #3E497A;
+        border-radius: 10px;
+        margin: 80px auto;
+        padding: 10px 50px;
+        align-items: center;
+        list-style-type: none;
+        text-align: center;
+      }
+      
+      .cad-um {
+        font-size: 30px;
+        line-height: 2.5;
+        font-weight: bold;
+        text-align:center;
+      }
+      
+      .caixas {
+        text-align:left;
+        
+      }
+      
+      .caixa {
+        margin: 10px 5px;
+      }
+      
+      .caixa input, #opcoes{
+        box-sizing: border-box;
+        width: 100%;
+        height: 30px;
+        background-color: white;
+        padding: 3px;
+        /* margin: 10px; */
+        border: 1px solid #3E497A;
+        color: #3E497A;
+        border-radius: 10px;
+        
+      }
+      .cad-button {
+        align-items: center;
+        font-size: 18px;
+        color: whitesmoke;
+        background-color: #3E497A;
+        margin: 20px;
+        border-radius: 10px;
+        padding: 5px 20px;
+      }

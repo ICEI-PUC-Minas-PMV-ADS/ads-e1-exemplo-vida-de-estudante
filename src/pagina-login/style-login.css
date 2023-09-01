@@ -1,0 +1,310 @@
+/* LIMPAR CONFIGURAÇÃO PADRÃO DO BROWSER*/
+
+* {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  font-size: 100%;
+  font: inherit;
+  vertical-align: baseline;
+}
+
+/* ==================== NAVBAR ===================*/
+
+a {
+  color: whitesmoke;
+  text-decoration: none;
+  transition: 0.3s;
+}
+
+a:hover {
+  opacity: 0.7;
+}
+
+.logo {
+  font-size: 28px;
+  font-family: cursive;
+}
+
+nav {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  font-family: Arial, Helvetica, sans-serif;
+  background: #3e497a;
+  height: 8vh;
+  position: flex;
+  z-index: 100;
+}
+
+main {
+  height: 92vh;
+}
+
+.nav-list {
+  list-style: none;
+  display: flex;
+}
+
+.nav-list li {
+  letter-spacing: 3px;
+  margin-left: 32px;
+}
+
+.mobile-menu {
+  display: none;
+  cursor: pointer;
+}
+
+.mobile-menu div {
+  width: 32px;
+  height: 2px;
+  background: whitesmoke;
+  margin: 8px;
+  transition: 0.3s;
+}
+
+/*======================== MENU RESPONSIVO ================================*/
+
+@media (max-width: 999px) {
+  body {
+    overflow-x: hidden;
+  }
+
+  .nav-list {
+    position: absolute;
+    top: 8vh;
+    right: 0;
+    width: 50vw;
+    height: 92vh;
+    background: #3e497a;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-around;
+    transform: translateX(100%);
+    transition: transform 0.3s ease-in;
+    z-index: 1;
+  }
+
+  .nav-list li {
+    margin-left: 0;
+    opacity: 0;
+  }
+
+  .mobile-menu {
+    display: block;
+  }
+}
+
+.nav-list.active {
+  transform: translateX(0);
+}
+
+@keyframes navLinkFade {
+  from {
+    opacity: 0;
+    transform: translateX(50px);
+  }
+
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+.mobile-menu.active .line1 {
+  transform: rotate(-45deg) translate(-8px, 8px);
+}
+
+.mobile-menu.active .line2 {
+  opacity: 0;
+}
+
+.mobile-menu.active .line3 {
+  transform: rotate(45deg) translate(-5px, -7px);
+}
+
+/* ESTILO PADRÀO */
+
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  background: whitesmoke;
+  color: #3E497A;
+}
+
+/* RESPONSIVO */
+
+@media only screen and (max-width: 750px) {
+  .servicos-home-lista,
+  .depoimentos-lista,
+  .sobre-corpo,
+  .servicos-corpo {
+    grid-template-columns: 1fr;
+    justify-items: center;
+  }
+
+  .main,
+  .sobre,
+  .servicos {
+    height: 400px;
+  }
+
+  .servicos-home-lista li {
+    max-width: 388px;
+  }
+
+  .depoimentos-lista {
+    padding: 0px;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
+@media only screen and (max-width: 400px) {
+  .main h1 {
+    font-size: 1.5rem;
+  }
+
+  .titulo {
+    font-size: 1.125rem;
+  }
+
+  .depoimentos-lista li {
+    grid-template-columns: 1fr;
+    justify-items: center;
+    text-align: center;
+  }
+
+  body {
+    overflow-x: hidden;
+  }
+}
+
+/*======================== TELA LOGIN RESPONSIVA ===============================*/
+
+
+@media (max-width: 999px) {
+  .content {
+    width: 90%;
+  }
+}
+
+@media (min-width: 1000px) {
+  .content {
+    width: 500px;
+  }
+  
+}
+
+/* CSS reset */
+*,
+*:before,
+*:after {
+  margin: 0;
+  padding: 0;
+  font-family: Arial, sans-serif;
+}
+
+a {
+  text-decoration: none;
+}
+
+/* content que contem os formulário */
+.content {
+  margin: 40px auto;
+  position: relative;
+  
+  
+}
+
+/* formatando o cabeçalho do formulário */
+h1 {
+  font-size: 30px;
+  color: #3e497a;
+  font-family: Arial, sans-serif;
+  font-weight: bold;
+  text-align: center;
+  line-height: 2.5;
+  
+}
+
+.caixa {
+  margin: 10px 5px;
+  
+}
+label {
+  color: #3e497a;
+  position: relative;
+  display: inline-block;
+}
+
+
+
+input {
+  outline: none;
+}
+
+input:not([type='checkbox']) {
+  
+  box-sizing: border-box;
+  width: 100%;
+  height: 40px;
+  margin-top: 5px;
+  padding: 10px;
+  border: 1px solid #3E497A;
+  color: #3E497A;
+  border-radius: 10px;
+ 
+}
+
+/*estilo do botão submit */
+button {
+  align-items: center;
+  font-size: 18px;
+  color: whitesmoke;
+  background-color: #3E497A;
+  border-radius: 10px;
+  padding: 5px 20px;
+  display: block;
+  margin: 20px auto;
+}
+/* estilos para formulário */
+#login {
+  position: absolute;
+  width: 100%;
+  padding: 10px 50px;
+  margin: 80px auto;
+  border: 2px solid #3E497A ;
+  border-radius: 10px;
+  font-size: 16px;
+  box-sizing: border-box;
+  line-height: 2;
+  
+}
+
+
+/*fOOTER*/
+
+.rodape {
+  background-color: #3e497a;
+  font-family: Arial, Helvetica, sans-serif;
+  color: whitesmoke;
+  font-size: 15px;
+  text-align: center;
+  padding: 20px 0px 20px 0px;
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+}
+
+#msgError {
+  text-align: center;
+  color: #ff0000;
+  background-color: #ffbbbb;
+  padding: 5px;
+  border-radius: 4px;
+  display: none;
+}
