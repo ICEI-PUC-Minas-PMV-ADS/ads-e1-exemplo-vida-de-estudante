@@ -5,18 +5,6 @@
 
 O projeto da interface foi desenvolvido de maneira que a organização dos elementos e funcionalidades da página privilegiem a experiência do usuário, facilite a navegação e a localização das informações que o usuário deseja encontrar.
 
-## User Flow
-
-O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
-
-  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
-
-  
-<figure> 
-    <figcaption>Figura 4 - Fluxo de telas do usuário
-</figure> 
-
-
 ## Wireframes
 
 As telas do sistema apresentam uma estrutura comum que é apresentada na figura 5. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
@@ -116,13 +104,21 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
   <h3><b>Tela – Cadastro de Tutores</b></h3>
 <p>A tela de Cadastro de Tutores apresenta os seguintes campos: FOto, Nome, Instituição de ensino, Cidade, Disciplina e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
   
-
-
 ![tutores](https://user-images.githubusercontent.com/81182674/172501101-1222f7e8-a62e-44d7-8c37-0afbdab03f59.png)
-
-
-
 
 <figure> 
     <figcaption>Figura 13 - Tela de Cadastro de Tutores
 </figure>
+
+## User Flow
+
+O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
+
+  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
+
+  
+<figure> 
+    <figcaption>Figura 4 - Fluxo de telas do usuário
+</figure> 
+
+
