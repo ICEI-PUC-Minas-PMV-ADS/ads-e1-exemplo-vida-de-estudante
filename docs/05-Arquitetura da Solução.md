@@ -20,7 +20,3 @@ A solução implementada conta com os seguintes módulos:
     <dd>Local Storage - armazenamento mantido no navegador, onde são implementados bancos de dados baseados em JSON.</dd>
   <dt>Hospedagem - local na Internet onde as páginas são mantidas e acessadas pelo navegador.</dt>
 </dl>
-
-## Hospedagem
-
-Será utilizada a plataforma GitHub Pages como ambiente de hospedagem do site do projeto, que será mantido na URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html.
