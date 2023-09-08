@@ -5,6 +5,8 @@
 
 ### Tela de Cadastro (RF-001)
 
+RESPONSÁVEL: Ana
+
 O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de cadastro: 
@@ -45,6 +47,8 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 
 ### Tela de Login (RF-002)
 
+RESPONSÁVEL: Maria
+
 O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de login: 
@@ -82,6 +86,8 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 ### Filtro de pesquisa (RF-003)
 
+RESPONSÁVEL: Pedro
+
 O filtro de pesquisa está disponível nas páginas de Livros e Tutorias. O acesso às páginas de Livros e Tutorias poderá ser feito através menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo do filtro de pesquisa na tela de Livros:
@@ -115,6 +121,8 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 <hr>
 
 ### Tela de Cadastro de Livros (RF-004)
+
+RESPONSÁVEL: João
 
 O acesso a tela de cadastro de livros poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -152,6 +160,8 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 ### Tela de Cadastro de Tutores (RF-005)
 
+RESPONSÁVEL: Beatriz
+
 O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Cadastro de tutores:
@@ -187,6 +197,8 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 <hr>
 
 ### Tela de Livros (RF-006, RF-007)
+
+RESPONSÁVEL: Silvia
 
 O acesso a tela de livros poderá ser feito através da opção do menu “Livros”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
@@ -225,6 +237,8 @@ Exemplo da tela de Livros:
 
 ### Tela de Tutores (RF-008)
 
+RESPONSÁVEL: Clara
+
 O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
 Exemplo da tela de Tutores: 
@@ -258,6 +272,8 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 <hr>
 
 ### Tela de Perfil (RF-009)
+
+RESPONSÁVEL: Vânia
 
 O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
 
