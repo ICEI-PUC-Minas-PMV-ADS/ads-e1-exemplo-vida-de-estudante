@@ -1,13 +1,22 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Documentação de Especificação</a></span>
 
-O projeto da interface foi desenvolvido de maneira que a organização dos elementos e funcionalidades da página privilegiem a experiência do usuário, facilite a navegação e a localização das informações que o usuário deseja encontrar.
+## User Flow
 
-## Wireframes
+O fluxograma apresentado na figura 1 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Protótipo de baixa fidelidade que se segue. Para visualizar o protótipo interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
 
-As telas do sistema apresentam uma estrutura comum que é apresentada na figura 5. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
+  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
+
+  
+<figure> 
+    <figcaption>Figura 1 - Fluxo de telas do usuário
+</figure> 
+
+
+## Protótipo de baixa fidelidade
+
+As telas do sistema apresentam uma estrutura comum que é apresentada na figura 2. Nesta estrutura existem 3 grandes blocos, descritos a seguir. São eles:
 <ul>
   <li>Cabeçalho - local onde estão dispostos o nome da aplicação web e navegação principal do site (menu da aplicação);</li>
   <li>Conteúdo - apresenta o conteúdo da tela em questão;</li>
@@ -16,17 +25,17 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 <figure> 
   <img src="https://user-images.githubusercontent.com/100447878/164074128-7b006e50-8621-4964-b0fd-07a90e626673.png"
-    <figcaption>Figura 5 - Estrutura padrão do site
+    <figcaption>Figura 2 - Estrutura padrão do site
 </figure> 
 <hr>
 
-<h3><b>Tela - Home-page</b></h3>
-<p>A tela de home-page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
+<h3><b>Tela - Home page</b></h3>
+<p>A tela de home page apresenta banners que remetem para as páginas de Livros, Tutorias e Cadastro, depoimentos de estudantes e uma breve descrição sobre o projeto. </p>
   
 ![homepage](https://user-images.githubusercontent.com/81182674/167677975-53f61b97-4979-441b-813c-036c3cd153bf.png)
 
 <figure> 
-  <figcaption>Figura 6 - Tela home-page
+  <figcaption>Figura 3 - Tela home page
 </figure> 
 <hr>
 
@@ -38,7 +47,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
   
 <figure> 
-  <figcaption> Figura 7 - Tela de Livros
+  <figcaption> Figura 4 - Tela de Livros
 </figure> 
 <hr>
 
@@ -50,7 +59,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
   
 <figure>  
-    <figcaption>Figura 8 - Tela de Tutorias      
+    <figcaption>Figura 5 - Tela de Tutorias      
 </figure> 
 <hr>
 
@@ -61,7 +70,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 9 - Tela de acesso à conta do usuário
+    <figcaption>Figura 6 - Tela de acesso à conta do usuário
 </figure>
 <hr>
 
@@ -72,7 +81,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 10 - Tela de cadastro de usuários
+    <figcaption>Figura 7 - Tela de cadastro de usuários
 </figure>
 <hr> 
   
@@ -83,7 +92,7 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 11 - Tela de Perfil
+    <figcaption>Figura 8 - Tela de Perfil
 </figure>
 <hr>
 
@@ -97,28 +106,15 @@ As telas do sistema apresentam uma estrutura comum que é apresentada na figura 
 
 
 <figure> 
-    <figcaption>Figura 12 - Tela de Cadastro de Livros
+    <figcaption>Figura 9 - Tela de Cadastro de Livros
 </figure>
  <hr>
 
   <h3><b>Tela – Cadastro de Tutores</b></h3>
-<p>A tela de Cadastro de Tutores apresenta os seguintes campos: FOto, Nome, Instituição de ensino, Cidade, Disciplina e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
+<p>A tela de Cadastro de Tutores apresenta os seguintes campos: Foto, Nome, Instituição de ensino, Cidade, Disciplina e Contato. Esta tela só pode ser acessada por usuários cadastrados, após realizarem o Login. </p>
   
 ![tutores](https://user-images.githubusercontent.com/81182674/172501101-1222f7e8-a62e-44d7-8c37-0afbdab03f59.png)
 
 <figure> 
-    <figcaption>Figura 13 - Tela de Cadastro de Tutores
+    <figcaption>Figura 10 - Tela de Cadastro de Tutores
 </figure>
-
-## User Flow
-
-O fluxograma apresentado na figura 4 mostra o fluxo de interação do usuário pelas telas do sistema. Cada uma das telas deste fluxo é detalhada na seção de Wireframes que se segue. Para visualizar o wireframe interativo, acesse o <a href="https://marvelapp.com/prototype/i39bj37/screen/86143037">ambiente MarvelApp do projeto</a>.
-
-  ![Untitled Diagram-Page-1 drawio (2)](https://user-images.githubusercontent.com/81182674/172236663-978177e6-9496-467b-a77a-127d6664e84a.png)
-
-  
-<figure> 
-    <figcaption>Figura 4 - Fluxo de telas do usuário
-</figure> 
-
-
