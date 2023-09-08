@@ -1,6 +1,6 @@
 # Programação de Funcionalidades
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/03-Metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/05-Arquitetura%20da%20Solução.md"> Arquitetura da Solução</a>
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Especificação do Projeto</a></span>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/03-Metodologia.md"> Metodologia</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/04-Projeto%20de%20Interface.md"> Projeto de Interface</a>, <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/05-Arquitetura%20da%20Solução.md"> Arquitetura da Solução</a>
 
 
 ### Tela de Cadastro (RF-001)
@@ -34,7 +34,7 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 
 #### Estrutura de Dados
 
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/cadastro/cadastre-se.html)
+●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
 
 
 #### Instruções de acesso
@@ -74,7 +74,7 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 
 #### Estrutura de Dados
 
-●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/pagina-login/login.html)
+●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/pagina-login/login.html)
 
 
 #### Instruções de acesso
@@ -109,7 +109,7 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 
 #### Estrutura de Dados
 
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaLivros/paginaLivros.html)
+●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
 
 
 #### Instruções de acesso
@@ -147,7 +147,7 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 #### Estrutura de Dados
 
-●[cadastroLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/cadastroLivros.html)
+●[cadastroLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroLivros.html)
 
 
 #### Instruções de acesso
@@ -185,7 +185,7 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 
 #### Estrutura de Dados
 
-●[cadastroTutorias.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/cadastroTutorias.html)
+●[cadastroTutorias.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroTutorias.html)
 
 
 #### Instruções de acesso
@@ -226,7 +226,7 @@ Exemplo da tela de Livros:
 
 #### Estrutura de Dados
 
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaLivros/paginaLivros.html)
+●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
 
 
 #### Instruções de acesso
@@ -261,7 +261,7 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ### Estrutura de Dados
 
-●[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaTutorias/paginaTutorias.html)
+●[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaTutorias/paginaTutorias.html)
 
 ### Instruções de acesso
 
@@ -299,7 +299,7 @@ RF-009	O site deve permitir ao usuário verificar as informações registradas n
 
 #### Estrutura de Dados
 
-●[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/src/paginaPerfil/perfil.html)
+●[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/perfil.html)
 
 
 #### Instruções de acesso
