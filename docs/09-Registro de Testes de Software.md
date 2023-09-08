@@ -7,12 +7,16 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 <ol>
   <li> CT-01: Verificar o funcionamento dos links da página Home.
 
+  RESPONSÁVEL: Beatriz.
+
 https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3-aba9-b9e617132f31.mov
 
   </li>
   <hr>
   
   <li> CT-02: Verificar o funcionamento do filtro de pesquisa.
+
+  RESPONSÁVEL: Beatriz.
     
   <p>Filtro da página Livros:</p>
     
@@ -30,6 +34,8 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-03: Verificar detalhes dos livros.
+
+RESPONSÁVEL: Silvia.
       
 ![Captura de Tela 2022-06-21 às 14 00 59 (2)](https://user-images.githubusercontent.com/100447878/174856950-9d27862f-5d4d-407b-95f3-70e9b152dc49.png)
 
@@ -37,6 +43,8 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-04: Verificar o cadastro de usuários.
+   
+  RESPONSÁVEL: Pedro. 
    
    <p>Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.</p>
       
@@ -56,6 +64,8 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-05: Verificar o login de usuários.
+
+  RESPONSÁVEL: Ana. 
   
    <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
   
@@ -76,6 +86,9 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-06: Verificar o cadastro de livros.
+
+  RESPONSÁVEL: Pedro. 
+    
   <p> Mensagem de confirmação de cadastro do livro.</p>
   
 ![Captura de Tela 2022-06-21 às 14 15 34](https://user-images.githubusercontent.com/100447878/174859699-0de48c01-faa1-4362-ac5c-f5a9a337e3c8.png)
@@ -98,6 +111,9 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-07: Verificar o cadastro de tutores.
+
+  RESPONSÁVEL: João. 
+    
   <p> Mensagem de confirmação de cadastro do tutor.</p>
   
    ![image](https://user-images.githubusercontent.com/101907319/174912389-5ad42624-397a-4ac5-b3c9-add2b13880cb.png)
@@ -120,6 +136,8 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   <hr>
   
   <li> CT-08: Verificar a página de Tutores.
+
+  RESPONSÁVEL: Pedro. 
     
   ![Captura de Tela 2022-06-20 às 18 40 10](https://user-images.githubusercontent.com/100447878/174680988-44d52b0f-3397-4744-86bc-7246bff79957.png)
 
