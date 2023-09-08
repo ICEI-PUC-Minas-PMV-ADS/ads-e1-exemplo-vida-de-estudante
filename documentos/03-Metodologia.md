@@ -1,10 +1,6 @@
 
 # Metodologia
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/02-Especificação%20do%20Projeto.md"> Documentação de Especificação</a></span>
-
-Esta seção descreve as ferramentas utilizadas pela equipe para a manutenção dos códigos e demais artefatos e sua organização para a execução das tarefas do projeto.
-
 ## Gerenciamento de Projeto
 
 A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, pois como citam Amaral, Fleury e Isoni (2019, p. 68), seus benefícios são a
@@ -70,7 +66,6 @@ integração semelhante e por isso foram selecionadas. Por fim, para criar
 diagramas utilizamos essa ferramenta por melhor captar as
 necessidades da nossa solução.
 
-<b>Relação de ambientes de trabalho</b>
 <p>Os artefatos do projeto são desenvolvidos a partir das plataformas GitHub e MarvelApp, apresentadas com seu propósito na tabela que se segue.<p/>
 
 | AMBIENTE | PLATAFORMA |LINK DE ACESSO                 |
@@ -82,4 +77,4 @@ necessidades da nossa solução.
 
 ### Estratégia de Organização de Codificação 
 
-Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto do site deverão ser inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/codigo-fonte). Consulte também a nossa sugestão referente a estratégia de organização de codificação a ser adotada pela equipe de desenvolvimento do projeto.
+Todos os artefatos relacionados a implementação e visualização dos conteúdos do projeto da aplicação foram inseridos na pasta [codigo-fonte](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/codigo-fonte). 
