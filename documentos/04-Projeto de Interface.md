@@ -1,7 +1,7 @@
 
 # Projeto de Interface
 
-<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/blob/main/docs/02-Especificação%20do%20Projeto.md"> Documentação de Especificação</a></span>
+<span style="color:red">Pré-requisitos: <a href="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/documentos/02-Especificação%20do%20Projeto.md"> Documentação de Especificação</a></span>
 
 O projeto da interface foi desenvolvido de maneira que a organização dos elementos e funcionalidades da página privilegiem a experiência do usuário, facilite a navegação e a localização das informações que o usuário deseja encontrar.
 
