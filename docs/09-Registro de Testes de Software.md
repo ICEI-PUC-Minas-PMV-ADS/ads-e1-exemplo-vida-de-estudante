@@ -7,7 +7,7 @@ Os testes funcionais realizados na aplicação web são descritos a seguir.
 <ol>
   <li> CT-01: Verificar o funcionamento dos links da página Home.
 
-  RESPONSÁVEL: Beatriz.
+  Responsável: Beatriz.
 
 https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3-aba9-b9e617132f31.mov
 
@@ -16,7 +16,7 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   
   <li> CT-02: Verificar o funcionamento do filtro de pesquisa.
 
-  RESPONSÁVEL: Beatriz.
+  Responsável: Beatriz.
     
   <p>Filtro da página Livros:</p>
     
@@ -35,7 +35,7 @@ https://user-images.githubusercontent.com/100447878/174854223-c457e6ca-a9ce-48d3
   
   <li> CT-03: Verificar detalhes dos livros.
 
-RESPONSÁVEL: Silvia.
+Responsável: Silvia.
       
 ![Captura de Tela 2022-06-21 às 14 00 59 (2)](https://user-images.githubusercontent.com/100447878/174856950-9d27862f-5d4d-407b-95f3-70e9b152dc49.png)
 
@@ -44,7 +44,7 @@ RESPONSÁVEL: Silvia.
   
   <li> CT-04: Verificar o cadastro de usuários.
    
-  RESPONSÁVEL: Pedro. 
+  Responsável: Pedro. 
    
    <p>Usuário preenche os campos "Senha" e "Confirmaçāo de Senha" com valores diferentes.</p>
       
@@ -65,7 +65,7 @@ RESPONSÁVEL: Silvia.
   
   <li> CT-05: Verificar o login de usuários.
 
-  RESPONSÁVEL: Ana. 
+  Responsável: Ana. 
   
    <p>Usuário preenche os campos "Email" e "Senha" com valores diferentes do usuário já cadastrado.</p>
   
@@ -87,7 +87,7 @@ RESPONSÁVEL: Silvia.
   
   <li> CT-06: Verificar o cadastro de livros.
 
-  RESPONSÁVEL: Pedro. 
+  Responsável: Pedro. 
     
   <p> Mensagem de confirmação de cadastro do livro.</p>
   
@@ -112,7 +112,7 @@ RESPONSÁVEL: Silvia.
   
   <li> CT-07: Verificar o cadastro de tutores.
 
-  RESPONSÁVEL: João. 
+  Responsável: João. 
     
   <p> Mensagem de confirmação de cadastro do tutor.</p>
   
@@ -137,7 +137,7 @@ RESPONSÁVEL: Silvia.
   
   <li> CT-08: Verificar a página de Tutores.
 
-  RESPONSÁVEL: Pedro. 
+  Responsável: Pedro. 
     
   ![Captura de Tela 2022-06-20 às 18 40 10](https://user-images.githubusercontent.com/100447878/174680988-44d52b0f-3397-4744-86bc-7246bff79957.png)
 
