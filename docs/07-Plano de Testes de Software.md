@@ -16,6 +16,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
  <tr>
   <td>CT-01: Verificar o funcionamento dos links da página Home</td>
@@ -37,6 +38,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todos os links da página Home devem encaminhar os usuários para as páginas descritas.</td>
+  <td>Maria</td>
  </tr>
 </table>
 
@@ -47,6 +49,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
  <tr>
   <td>CT-02: Verificar o funcionamento do filtro de pesquisa</td>
@@ -66,6 +69,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Os dados inseridos no filtro de pesquisa devem mostrar o livro onde há o dado informado.</td>
+  <td>Maria</td>
  </tr>
 </table>
 
@@ -76,6 +80,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>  
  </tr>
  <tr>
   <td>CT-03: Verificar detalhes dos livros</td>
@@ -96,6 +101,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Todas as informações, incluindo imagens das capas, referentes aos livros estão disponíveis na página Livros.</td>
+  <td>João</td>
  </tr>
 </table>
 
@@ -106,6 +112,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
  <tr>
   <td>CT-04: Verificar o cadastro de usuários</td>
@@ -125,6 +132,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Usuário cadastrado com sucesso".</td>
+  <td>Silvia</td>
  </tr>
 </table>
 
@@ -135,6 +143,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
  <tr>
   <td>CT-05: Verificar o login de usuários</td>
@@ -154,8 +163,9 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Após o login, o usuário deverá ser redirecionado para a sua página de perfil.</td>
+  <td>Maria</td>
  </tr>
- 
+
  <table>
  <tr>
   <th>Caso de teste</th>
@@ -163,6 +173,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
   <tr>
   <td>CT-06: Verificar o cadastro de livros</td>
@@ -187,6 +198,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Livro cadastrado com sucesso".</td>
+  <td>João</td>
  </tr>
 </table>
 
@@ -197,6 +209,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
   <tr>
   <td>CT-07: Verificar o cadastro de tutores</td>
@@ -221,6 +234,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ocorrer uma validação das informações fornecidas pelo usuário, e ao clicar em "Cadastrar", deve aparecer a mensagem "Tutoria cadastrada com sucesso".</td>
+  <td>Beatriz</td>
  </tr>
 </table>
  
@@ -231,6 +245,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
   <tr>
   <td>CT-08: Verificar a página de Tutores</td>
@@ -253,6 +268,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>Deve ser possível visualizar todos os perfis de Tutores, com suas respectivas fotos e informações, além da visualização da barra de pesquisa acima dos perfis.</td>
+  <td>Pedro</td>
  </tr>
 </table>
 
@@ -263,6 +279,7 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
   <th>Objetivo do teste</th>
   <th>Passos</th>
   <th>Critérios de êxito</th>
+  <th>Responsável</th>
  </tr>
   <tr>
   <td>CT-09: Verificar a página de perfil de usuários cadastrados</td>
@@ -285,5 +302,6 @@ Os testes funcionais a serem realizados na aplicação são descritos a seguir.
    </ol>
    </td>
   <td>As informações registradas pelo usuário no momento do cadastro devem estar disponibilizadas na página Perfil.</td>
+  <td>Silvia</td>
  </tr>
 </table>
