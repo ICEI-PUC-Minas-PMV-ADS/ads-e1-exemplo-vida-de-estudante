@@ -20,10 +20,6 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 * Joyce Christina de Paiva Carvalho
 
-## Instruções de utilização e hospedagem
-
- A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html">aqui</a> para acessá-lo. 
-
 # Documentação
 
 <ol>
@@ -38,7 +34,11 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 <li><a href="documentos/09-Referências.md"> Referências</a></li>
 </ol>
 
-# Código-fonte
+# Hospedagem
+
+A aplicação em HTML/CSS/JS é um projeto que pode ser utilizado tanto em servidores como em navegadores web. Clique <a href="https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html">aqui</a> para acessá-lo. 
+
+# Código-Fonte
 
 <li><a href="codigo-fonte/README.md"> Código Fonte</a></li>
 
