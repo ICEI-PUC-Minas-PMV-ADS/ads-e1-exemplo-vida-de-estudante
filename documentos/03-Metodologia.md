@@ -12,7 +12,7 @@ A metodologia ágil escolhida para o desenvolvimento deste projeto foi o SCRUM, 
 Desta forma, a equipe está organizada da seguinte maneira:
 <ul>
   <li>Scrum Master: Daiane Procópio</li>
-  <li>Product Owner: Joyce Carvalho</li>
+  <li>Product Owner: Fernanda Coura </li>
   <li>Equipe de Desenvolvimento: Anna Freitas, Daiane Procópio, Fernanda Coura, Rúbia Karina</li>
   <li>Equipe de Design: Anna Freitas</li>
 </ul>
