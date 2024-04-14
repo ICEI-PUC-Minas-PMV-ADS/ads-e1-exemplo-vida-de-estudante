@@ -12,6 +12,8 @@ OLIVEIRA, Clarissa Tochetto de; DIAS, Ana Cristina Garcia. Dificuldades na traje
 
 PATEL, Neil. <b>Psicologia das cores</b>: estudo e significado das cores (2021). 2021. Disponível em: https://neilpatel.com/br/blog/psicologia-das-cores-como-usar-cores-para-aumentar-sua-taxa-de-conversao/. Acesso em: 28 abr. 2022.
 
+SCHWABER, K.; SUTHERLAND, J. O Guia do Scrum O Guia Definitivo para o Scrum: As Regras do Jogo. Tradução: Fábio Cruz; Tradução: Eduardo Sucena; Tradução: Rodrigo Paulo. [s.l.] scrumguides.org, 2020.
+
 SOMMERVILLE, Ian. <b>Engenharia de software</b>. 10 ed. São Paulo: Pearson, 2019.
 
 UNIVERSIDADE DE BRASÍLIA. Decanato de Ensino de Graduação. <b>Tutoria</b>. c2021. Disponível em: http://deg.unb.br/tutoria-caa. Acesso em: 06 mar. 2022.
