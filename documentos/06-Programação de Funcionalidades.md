@@ -32,10 +32,6 @@ RF-001: O site deve permitir ao usuário cadastrar uma conta.
 ●mobile-navbar.js
 
 
-#### Estrutura de Dados
-
-●[cadastre-se.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/cadastro/cadastre-se.html)
-
 
 #### Instruções de acesso
 
@@ -72,10 +68,6 @@ RF-002: O site deve permitir ao usuário fazer o login da sua conta.
 ●	mobile-navbar.js
 
 
-#### Estrutura de Dados
-
-●	[login.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/pagina-login/login.html)
-
 
 #### Instruções de acesso
 
@@ -105,11 +97,6 @@ RF-003	O site deve oferecer uma funcionalidade de filtro/pesquisa para permitir 
 ●	paginaLivros.html 
 
 ●	style-livros.css
-
-
-#### Estrutura de Dados
-
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
 
 
 #### Instruções de acesso
@@ -145,10 +132,6 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 ●	mobile-navbar.js
 
-#### Estrutura de Dados
-
-●[cadastroLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroLivros.html)
-
 
 #### Instruções de acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
@@ -182,10 +165,6 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 ●	script.js
 
 ●	mobile-navbar.js
-
-#### Estrutura de Dados
-
-●[cadastroTutorias.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/cadastroTutorias.html)
 
 
 #### Instruções de acesso
@@ -224,10 +203,6 @@ Exemplo da tela de Livros:
 
 ●	mobile-navbar.js
 
-#### Estrutura de Dados
-
-●[paginaLivros.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaLivros/paginaLivros.html)
-
 
 #### Instruções de acesso
 1.	Abra um navegador de Internet e informe a seguinte URL: https://icei-puc-minas-pmv-ads.github.io/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/src/paginaHome/index.html
@@ -259,9 +234,6 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 ●	mobile-navbar.js
 
-### Estrutura de Dados
-
-●[tutores.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaTutorias/paginaTutorias.html)
 
 ### Instruções de acesso
 
@@ -296,10 +268,6 @@ RF-009	O site deve permitir ao usuário verificar as informações registradas n
 ●	perfil.js
 
 ●	mobile-navbar.js
-
-#### Estrutura de Dados
-
-●[perfil.html](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/tree/main/src/paginaPerfil/perfil.html)
 
 
 #### Instruções de acesso
