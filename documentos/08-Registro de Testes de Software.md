@@ -144,6 +144,9 @@ Responsável: Silvia.
   <hr>
   
   <li> CT-09: Verificar a página de perfil de usuários cadastrados.
+
+  Responsável: Ana. 
+
   
 ![Captura de Tela 2022-06-20 às 10 50 33](https://user-images.githubusercontent.com/100447878/174616506-d93f95de-3bd7-44f2-9323-d8bf0b3b4b2b.png)
 
