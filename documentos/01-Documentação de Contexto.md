@@ -1,42 +1,40 @@
 # Introdução
 
-A transição do ambiente escolar para a vida acadêmica traz mudanças impactantes na vida dos jovens. Segundo Oliveira e Dias (2014, p. 187), “essas mudanças podem constituir  dificuldades para os alunos, que, frequentemente, buscam auxílio na sua rede de apoio para lidar com as mesmas.”
-
-Dentre as dificuldades enfrentadas, observa-se a falta de recursos financeiros para à aquisição de fontes de informações e o acompanhamento dos conhecimentos necessários para o desenvolvimento acadêmico dos discentes, visto que durante a graduação os estudos são realizados de maneira mais autônoma pelos estudantes.
-
-Dessa forma, torna-se necessário cobrir essa lacuna enfrentada pelos estudantes de graduação, para que o seu aproveitamento acadêmico não seja afetado pelas adversidades citadas.
+No cenário atual do comércio digital, a experiência do usuário se tornou um dos principais fatores de sucesso para qualquer e-commerce. No caso da nossa loja virtual de roupas, o desafio vai além de vender produtos: precisamos oferecer uma vivência online prática, agradável e confiável. Hoje, o site enfrenta obstáculos como interfaces confusas, lentidão no carregamento e um processo de compra demorado. O objetivo do projeto é repensar o front-end, unindo estética e funcionalidade, para criar uma navegação fluida em qualquer dispositivo, que mostre os produtos de forma atraente e torne o ato de comprar algo simples e intuitivo.
 
 
 ## Problema
 
-Diante do exposto, o desafio que se busca superar com este projeto é a falta de suporte enfrentada por alunos do ensino superior no que se refere às fontes de informações e conhecimentos necessários para um bom aproveitamento acadêmico.
+Num mercado em que a experiência digital pesa tanto quanto a qualidade das roupas, nossa loja virtual precisa se reconectar com o cliente. Atualmente, dificuldades de navegação, desempenho fraco em dispositivos móveis e um checkout longo demais geram frustração e até desconfiança. O resultado é claro: abandono de carrinho e perda de vendas.
 
 
 ## Objetivos
 
-O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
-Como objetivos específicos, podemos destacar:
 <ul>
-<li>Oferecer uma plataforma de uso gratuito para apoiar alunos de graduação em seu desenvolvimento acadêmico;</li>
-<li>Auxiliar estes alunos na troca de livros didáticos, de referência e literatura;</li>
-<li>Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.</li>
+<li>1. Simplificar a jornada de compra – reduzir obstáculos em todo o percurso do usuário, da descoberta do produto até a finalização do pedido. O foco é otimizar o checkout, deixando-o rápido, transparente e seguro, com o menor número possível de etapas
+</li>
+<li>Fortalecer a confiança na compra – melhorar a apresentação dos produtos, trazendo imagens de alta qualidade, ângulos variados e informações detalhadas sobre tecidos e medidas. O cliente deve sentir segurança semelhante à de analisar a peça em mãos.
+</li>
+<li>Facilitar a busca e a navegação – implementar filtros claros, busca inteligente e uma estrutura de categorias simples, para que o cliente encontre o que procura em poucos cliques, mas também descubra novidades de forma natural.
+</li>
 </ul>
 
 
 ## Justificativa
 
-De acordo com Oliveira e Santos (2012) citado por Fialho e Sousa (2019, p. 211):
+O e-commerce de moda no Brasil movimentou bilhões em 2023 (ABCOMM, 2023), mas ainda enfrenta um problema recorrente: cerca de 75% dos carrinhos são abandonados antes da compra (BAYMARD INSTITUTE, 2024 ; EBIT; NIELSEN, 2023). Parte disso se deve a problemas na experiência digital. só a lentidão no carregamento aumenta a taxa de rejeição em mais de 30% (GOOGLE, 2018), e, como 90% dos brasileiros compram pelo celular (IBGE, 2023), falhas em dispositivos móveis pesam ainda mais. Além disso, processos de check out complicados respondem por cerca de 20% das desistências (BAYMARD INSTITUTE, 2024).
 
-"A internet, prioritariamente as redes sociais, consiste em um campo que possibilita atuações diferenciadas por seus usuários. Para o público juvenil, por exemplo, as redes são mais do que um ambiente utilizado para se relacionar, pois também é espaço de aprendizado, de expressão e de troca de experiências."
-
-Portanto, a criação de uma aplicação web para a resolução deste problema foi motivada pela presença da internet na vida dos jovens, e os fins diversos aos quais estes a utilizam.
-
+Uma pesquisa própria com 150 consumidores confirma esse cenário: 82% já desistiram de uma compra por causa da lentidão ou dificuldade de navegação no celular, 78% destacam a importância de imagens de qualidade e 67% consideram o checkout um momento estressante. Isso reforça a necessidade de um front-end otimizado, que valorize desempenho, usabilidade e clareza. Melhorar a experiência do cliente pode se tornar o grande diferencial competitivo da loja, aumentando conversão e fidelização
 
 ## Público-Alvo
 
-Embora os desafios citados possam ocorrer desde o início da vida escolar dos estudantes, o foco deste trabalho está no público de graduação.
+Nosso público é formado principalmente por três perfis distintos:
 
-Assim, estabeleceu-se como público-alvo desta solução homens e mulheres entre 18 e 24 anos, pois além de terem maior autonomia em seus estudos, eles também enfrentam os obstáculos da transição para a vida universitária, como a necessidade de rápida adaptação, e tais mudanças podem afetar o seu desempenho acadêmico.
+O consumidor final, que busca praticidade e segurança. Geralmente acessa via celular e quer encontrar os produtos rapidamente, ver detalhes da peça com clareza e finalizar a compra sem complicações. O que mais o irrita são sites lentos, filtros ruins e checkouts demorados.
 
-Além dos alunos de graduação com o perfil citado acima, o projeto também é voltado para ex-alunos que pretendem atuar como tutores e contribuir com o aprendizado dos alunos de graduação.
+O administrador da loja, responsável por gerir o catálogo, pedidos e promoções. Esse perfil precisa de ferramentas simples e eficazes para atualizar informações sem depender de conhecimento técnico avançado. Sistemas complicados atrapalham o trabalho e aumentam as chances de erro.
+
+O visitante ocasional, que chega por impulso ou indicação. Ele procura uma navegação agradável, acesso fácil a promoções e informações objetivas sobre prazos e entrega. Sua tolerância a barreiras é mínima: pop-ups invasivos ou exigência de cadastro já podem fazê-lo sair sem pensar duas vezes.
+
+Equilibrar as expectativas desses três perfis é essencial para criar uma experiência digital consistente, que transforme visitas em compras concluídas e clientes satisfeitos.
