@@ -17,11 +17,11 @@ Diante do exposto, o desafio que se busca superar com este projeto é a falta de
 O objetivo geral deste projeto é a criação de uma aplicação web de fácil acesso e uso que permita aos universitários a busca e troca de fontes de informações e conhecimentos entre seus colegas discentes.
 
 Como objetivos específicos, podemos destacar:
-<ul>
-<li>Oferecer uma plataforma de uso gratuito para apoiar alunos de graduação em seu desenvolvimento acadêmico;</li>
-<li>Auxiliar estes alunos na troca de livros didáticos, de referência e literatura;</li>
-<li>Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.</li>
-</ul>
+
+* Oferecer uma plataforma de uso gratuito para apoiar alunos de graduação em seu desenvolvimento acadêmico;
+* Auxiliar estes alunos na troca de livros didáticos, de referência e literatura;
+* Conectar os alunos que buscam tutoria para potencializar sua aprendizagem.
+
 
 
 ## Justificativa
