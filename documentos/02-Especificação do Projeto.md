@@ -52,7 +52,7 @@ Ex-aluno do ensino superior.
 
 Com base na análise das personas forma identificadas as seguintes histórias de usuários:
 
-|EU COMO... `PERSONA`| QUERO/PRECISO ... `FUNCIONALIDADE`                                             |PARA ... `MOTIVO/VALOR`                 |
+|EU COMO... `PERSONA`| QUERO/PRECISO ...                                              |PARA ...                  |
 |--------------------|--------------------------------------------------------------------------------|----------------------------------------|
 |Ex-aluno | ajudar estudantes de áreas diversas que estão com dificuldades nos estudos  | orientar e melhorar o desempenho acadêmico dos alunos. |
 |Aluno | participar de uma atividade extra que emita certificados  | cumprir os créditos necessários para concluir a graduação.  |
