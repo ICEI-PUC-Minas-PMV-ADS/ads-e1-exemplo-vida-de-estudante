@@ -10,7 +10,10 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 
 ## Integrantes
 
-* Luiz Alberto Ferreira Gomes
+* Anna Luiza de Angelis Souza Freitas
+* Daiane Campos Procópio
+* Fernanda Augusta de Barcelos Coura
+* Rúbia Karina Prado Costa
 
 ## Orientadora
 
