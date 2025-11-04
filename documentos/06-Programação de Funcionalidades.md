@@ -7,7 +7,7 @@
 
 Responsável: Ana
 
-O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de cadastro poderá ser feito através da opção de menu “Cadastre-se”. 
 
 Exemplo da tela de cadastro: 
 
@@ -45,7 +45,7 @@ Ao clicar em “Cadastre-se” no canto superior direito da tela, terá acesso a
 
 Responsável: Maria
 
-O acesso a tela de login poderá ser feito através do menu “Entrar”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de login poderá ser feito através do menu “Entrar”.
 
 Exemplo da tela de login: 
 
@@ -145,7 +145,7 @@ RF-004	O site deve permitir ao usuário fazer o cadastro de livros.
 
 Responsável: Beatriz
 
-O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de cadastro de tutores poderá ser feito após o login do usuário. 
 
 Exemplo da tela de Cadastro de tutores:
 
@@ -179,7 +179,7 @@ RF-005	O site deve permitir ao usuário disponibilizar informações das discipl
 
 Responsável: Silvia
 
-O acesso a tela de livros poderá ser feito através da opção do menu “Livros”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de livros poderá ser feito através da opção do menu “Livros”.
 
 Exemplo da tela de Livros:
 
@@ -214,7 +214,7 @@ Exemplo da tela de Livros:
 
 Responsável: Clara
 
-O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de Tutores poderá ser feito através do menu, na opção “Tutorias”. 
 
 Exemplo da tela de Tutores: 
 
@@ -247,7 +247,7 @@ RF-008	O site deve permitir ao usuário visualizar os detalhes dos tutores.
 
 Responsável: Vânia
 
-O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. As estruturas de dados foram baseadas em HTML, CSS e JS.
+O acesso a tela de perfil é feito após o login do usuário na página Entrar, disponível no menu superior. 
 
 Exemplo da tela de Perfil:
 
