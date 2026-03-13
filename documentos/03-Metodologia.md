@@ -22,13 +22,15 @@ Desta forma, a equipe está organizada da seguinte maneira:
 Para organização e distribuição das tarefas do projeto, a equipe está utilizando o GitHub, estruturado com as seguintes listas: 
 
 <ul>
-  <li>Product Backlog: recebe as tarefas a serem trabalhadas e representa o Backlog do produto. Todas as atividades identificadas no decorrer do projeto são incorporadas a esta lista.</li>
-  <li>To Do: esta lista representa o Sprint Backlog que está sendo trabalhado.</li>
+  <li>Backlog: esta coluna representa o Product Backlog e recebe as Tarefas do Projeto a serem trabalhadas.</li>
+  <li>To Do: esta coluna representa o Sprint Backlog que está sendo trabalhado.</li>
   <li>In progress: lista das tarefas iniciadas.</li>
-  <li>Done: nesta lista são colocadas as tarefas finalizadas e as que passaram pelos testes e controle de qualidade, prontas para serem entregues aos usuários.</li>
+  <li>Ready to Test: tarefas prontas para Testes.</li>
+  <li>Testing: tarefas em Revisão e/ou Teste.</li>
+  <li>Done: tarefas concluídas.</li>
  </ul>
 
-O quadro kanban do grupo no GitHub está disponível no link [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/2558) e é apresentado, no estado atual, na figura abaixo:
+O quadro Kanban do grupo no GitHub está disponível no link [https://github.com/ICEI-PUC-Minas-PMV-ADS/pmv-ads-2022-1-e1-proj-web-t3-vida-de-estudante/projects/2](https://github.com/orgs/ICEI-PUC-Minas-PMV-ADS/projects/2558) e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
   <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Product%20backlog.png?raw=true">
