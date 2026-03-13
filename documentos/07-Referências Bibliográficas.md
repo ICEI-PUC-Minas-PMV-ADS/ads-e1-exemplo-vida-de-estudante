@@ -1,4 +1,4 @@
-# Referências
+# Referências Bibliográficas
 
 AMARAL, Vanessa de Araújo; OLIVEIRA, Angela Maria Fleury de; ISONI, Taciana Maria. Inovação social e metodologias ágeis: uma história de sucesso. <b>DOM</b>: a revista da Fundação Dom Cabral, Nova Lima, v. 12, n. 38, p. 66-71, maio/ago. 2019.
 
