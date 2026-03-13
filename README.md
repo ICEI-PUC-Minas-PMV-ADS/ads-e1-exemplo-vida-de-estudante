@@ -28,7 +28,7 @@ O objetivo geral deste projeto é a criação de uma aplicação web de fácil a
 <li><a href="documentos/04-Projeto de Interface.md"> Projeto de Interface</a></li>
 <li><a href="documentos/05-Template padrão do Site.md"> Template padrão do Site</a></li>
 <li><a href="documentos/06-Programação de Funcionalidades.md"> Programação de Funcionalidades</a></li>
-<li><a href="documentos/07-Referências Bibliográficas.md"> Referências</a></li>
+<li><a href="documentos/07-Referências Bibliográficas.md"> Referências Bibliográficas</a></li>
 </ol>
 
 # Hospedagem
