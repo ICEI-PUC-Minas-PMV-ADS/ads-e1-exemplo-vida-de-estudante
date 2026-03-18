@@ -33,7 +33,7 @@ Para organização e distribuição das tarefas do projeto, a equipe está utili
 O quadro Kanban do grupo no GitHub está disponível no link [Projects](https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Kanbanvidaestudante.png) e é apresentado, no estado atual, na figura abaixo:
 
 <figure> 
-  <img src="documentos/img/Kanbanvidaestudante.png"
+  <img src="https://github.com/ICEI-PUC-Minas-PMV-ADS/ads-e1-exemplo-vida-de-estudante/blob/main/documentos/img/Kanbanvidaestudante.png"
     <figcaption>Figura 2 - Tela do kanban no GitHub utilizada pelo grupo</figcaption>
 </figure> 
 
